@@ -1,9 +1,0 @@
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/repositories/PayeeRepository.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/api/v1/TransactionMapper.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/model/TransactionDTO.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/domain/Payee.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/controller/TransactionController.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/repositories/TransactionRepository.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/PaymentProcessingApplication.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/domain/BaseEntity.java
-/Users/rajatrhande/Downloads/payment-processing/src/main/java/com/glassdoor/paymentprocessing/domain/Transaction.java
